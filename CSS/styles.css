@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Poppins:wght@400;500;600;700;800&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background: linear-gradient(to right, #000000, #384549);
+    color: white;
+    padding: 60px 0;
+}
